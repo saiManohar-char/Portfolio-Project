@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portfolio website for Assignment 4",
   "type": "module",
-  "homepage": "https://saiManohar-char.github.io/portfolio",
+  "homepage": "https://saiManohar-char.github.io/Portfolio-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
