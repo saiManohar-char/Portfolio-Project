@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  base: '/portfolio/', // Required for GitHub Pages deployment
+    plugins: [react()],
+    base: '/Portfolio-Project/', // Required for GitHub Pages deployment
 })
